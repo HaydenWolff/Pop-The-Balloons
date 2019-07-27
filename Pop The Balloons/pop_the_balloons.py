@@ -2,7 +2,6 @@
 # Programmer: Hayden Wolff
 # Date: 4/5/2018
 # File Name: pop_the_balloons.py
-# Description: This program is a template for a game. It demonstrates use of lists.
 #########################################
 
 import pygame
